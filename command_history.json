@@ -1,0 +1,602 @@
+[
+  {
+    "timestamp": "2025-11-17T11:34:36.585803",
+    "user_input": "build project  portfolio ",
+    "jarvis_response": "AI project created at: C:\\Users\\Hp\\Desktop\\AI_Project_project_portfolio — 17 files written.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T11:36:02.758152",
+    "user_input": "create project html css python portfolio ",
+    "jarvis_response": "Error: AI failed to generate project files. Please try again with a more specific description.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T11:36:46.648295",
+    "user_input": "create project portfolio with html and css ",
+    "jarvis_response": "Executing 2 commands",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T11:37:00.247185",
+    "user_input": "create project portfolio with html css ",
+    "jarvis_response": "Error: AI failed to generate project files. Please try again with a more specific description.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T11:38:22.964916",
+    "user_input": "create project portfolio with html css ",
+    "jarvis_response": "Error: AI failed to generate project files. Please try again with a more specific description.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T11:38:58.560486",
+    "user_input": "create project portfolio with html css ",
+    "jarvis_response": "Error: AI failed to generate project files. Please try again with a more specific description.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T11:52:03.247542",
+    "user_input": "create project portfolio website",
+    "jarvis_response": "AI generation failed: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T11:53:37.004397",
+    "user_input": "create project portfolio website",
+    "jarvis_response": "Error: Could not parse project files from AI response",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T11:59:17.921046",
+    "user_input": "create project portfolio website",
+    "jarvis_response": "✅ Project 'project_portfolio_website' created at: C:\\Users\\Hp\\Desktop\\AI_Project_project_portfolio_website\n📁 Files: 25 | 📂 Opened in Explorer",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:03:19.703624",
+    "user_input": "create project calculator using python",
+    "jarvis_response": "✅ Project 'project_calculator_using_python' created at: C:\\Users\\Hp\\Desktop\\AI_Project_project_calculator_using_python\n📁 Files: 10 | 📂 Opened in Explorer",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:03:54.391146",
+    "user_input": "create project portfolio website using html css",
+    "jarvis_response": "✅ Project 'project_portfolio_website_using_html_css' created at: C:\\Users\\Hp\\Desktop\\AI_Project_project_portfolio_website_using_html_css\n📁 Files: 15 | 📂 Opened in Explorer",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:07:14.313949",
+    "user_input": "create project portfolio website using html css",
+    "jarvis_response": "✅ Project 'project_portfolio_website_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_portfolio_website_using_html_css\n📄 Files: Project Structure, index.html index.html, style.css, project.html, project-card.html...\n🌐 Open index.html to view your website",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:12:02.893664",
+    "user_input": "create project portfolio website using html css",
+    "jarvis_response": "✅ Project 'project_portfolio_website_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_portfolio_website_using_html_css\n📄 Files: 3 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:12:56.007849",
+    "user_input": "create project restaurant site using html css",
+    "jarvis_response": "Processing...",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:13:40.848151",
+    "user_input": "create project restaurant site using html css",
+    "jarvis_response": "Command completed",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:14:01.926411",
+    "user_input": "create project landing page using html css",
+    "jarvis_response": "✅ Project 'project_landing_page_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_landing_page_using_html_css\n📄 Files: 3 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:14:52.128414",
+    "user_input": "create project shoping web using html css",
+    "jarvis_response": "✅ Project 'project_shoping_web_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_shoping_web_using_html_css\n📄 Files: 3 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:16:45.429781",
+    "user_input": "create project shoping web using html css",
+    "jarvis_response": "✅ Project 'project_shoping_web_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_shoping_web_using_html_css\n📄 Files: 4 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:17:03.973606",
+    "user_input": "create project portfolio website using html css",
+    "jarvis_response": "✅ Project 'project_portfolio_website_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_portfolio_website_using_html_css\n📄 Files: 3 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:17:43.458597",
+    "user_input": "create project restaurant site using html css",
+    "jarvis_response": "Processing...",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:18:01.724279",
+    "user_input": "create project business website using html css",
+    "jarvis_response": "✅ Project 'project_business_website_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_business_website_using_html_css\n📄 Files: 3 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:20:33.986582",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'project_calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_calculator_using_html_css\n📄 Files: 4 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:21:50.486256",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'project_todo_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_todo_app_using_html_css\n📄 Files: 4 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:22:46.689342",
+    "user_input": "create project business website using html css",
+    "jarvis_response": "✅ Project 'project_business_website_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_business_website_using_html_css\n📄 Files: 3 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:23:18.565866",
+    "user_input": "create project contact form using html css",
+    "jarvis_response": "✅ Project 'project_contact_form_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_contact_form_using_html_css\n📄 Files: 4 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:23:58.162099",
+    "user_input": "create project tic tac toe using html css",
+    "jarvis_response": "✅ Project 'project_tic_tac_toe_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_tic_tac_toe_using_html_css\n📄 Files: 4 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:24:17.928704",
+    "user_input": "create project tic tac toe using html css",
+    "jarvis_response": "✅ Project 'project_tic_tac_toe_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_tic_tac_toe_using_html_css\n📄 Files: 4 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:25:02.514913",
+    "user_input": "create project weather app using html css",
+    "jarvis_response": "Weather data not available for 'app using html css'",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:25:16.286057",
+    "user_input": "create project timer app using html css",
+    "jarvis_response": "✅ Project 'project_timer_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_timer_app_using_html_css\n📄 Files: 4 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:25:40.022276",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'project_calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_project_calculator_using_html_css\n📄 Files: 4 files created\n🌐 Open index.html to view",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:41:17.702047",
+    "user_input": "create project portfolio website with html css",
+    "jarvis_response": "✅ Project 'css' created!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_css\n📄 Files: 3 created\n🚀 Folder opened automatically",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:41:44.233031",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'css' created!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_css\n📄 Files: 3 created\n🚀 Folder opened automatically",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:42:17.266796",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'css' created!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_css\n📄 Files: 3 created\n🚀 Folder opened automatically",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:45:06.139631",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'css' created!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_css\n📄 Files: 4 created\n🚀 Folder opened automatically",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:45:50.032766",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'css' created!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_css\n📄 Files: 4 created\n🚀 Folder opened automatically",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:46:25.518735",
+    "user_input": "create project portfolio website with html css",
+    "jarvis_response": "✅ Project 'css' created!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_css\n📄 Files: 4 created\n🚀 Folder opened automatically",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:56:15.738002",
+    "user_input": "create project portfolio website with html css",
+    "jarvis_response": "✅ Project 'portfolio_website_with_html_cs' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_portfolio_website_with_html_cs\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:56:32.923276",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T12:56:54.653229",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'todo_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_todo_app_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:04:12.990935",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'todo_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_todo_app_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:04:38.084846",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "Processing...",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:04:43.764358",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 3\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:06:10.056720",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:08:45.978949",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 9\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:09:20.362567",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'todo_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_todo_app_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:09:59.048573",
+    "user_input": "create project contact form using html css",
+    "jarvis_response": "✅ Project 'contact_form_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_contact_form_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:10:21.098199",
+    "user_input": "create project portfolio website with html css",
+    "jarvis_response": "✅ Project 'portfolio_website_with_html_cs' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_portfolio_website_with_html_cs\n📄 Files created: 3\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:11:32.191086",
+    "user_input": "create project calculator all number same like calclator using html css ",
+    "jarvis_response": "✅ Project 'calculator_all_number_same_lik' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_all_number_same_lik\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:11:55.422109",
+    "user_input": "create project tic tac toe using html css",
+    "jarvis_response": "✅ Project 'tic_tac_toe_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_tic_tac_toe_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:12:35.548344",
+    "user_input": "create project tic tac toe using html css",
+    "jarvis_response": "✅ Project 'tic_tac_toe_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_tic_tac_toe_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:13:34.490872",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 3\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:14:51.810178",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:18:10.935818",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:19:00.353715",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:19:15.562028",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:19:42.446288",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:20:27.024695",
+    "user_input": "create project portfolio website with html css",
+    "jarvis_response": "✅ Project 'portfolio_website_with_html_cs' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_portfolio_website_with_html_cs\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:20:55.165621",
+    "user_input": "create project portfolio website with html css",
+    "jarvis_response": "✅ Project 'portfolio_website_with_html_cs' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_portfolio_website_with_html_cs\n📄 Files created: 3\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:22:41.354789",
+    "user_input": "create project portfolio website with html css",
+    "jarvis_response": "✅ Project 'portfolio_website_with_html_cs' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_portfolio_website_with_html_cs\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:23:08.321055",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 6\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:23:54.286365",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'todo_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_todo_app_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:26:39.482344",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:27:42.040798",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'todo_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_todo_app_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:31:00.837546",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'todo_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_todo_app_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:31:39.550430",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:32:00.933378",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:32:20.848864",
+    "user_input": "create project portfolio website with html css",
+    "jarvis_response": "✅ Project 'portfolio_website_with_html_cs' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_portfolio_website_with_html_cs\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:33:56.597999",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:34:34.819863",
+    "user_input": "create project portfolio website with html css",
+    "jarvis_response": "✅ Project 'portfolio_website_with_html_cs' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_portfolio_website_with_html_cs\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:35:10.942748",
+    "user_input": "create project portfolio  with html css",
+    "jarvis_response": "✅ Project 'portfolio__with_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_portfolio__with_html_css\n📄 Files created: 3\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:35:30.674309",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'todo_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_todo_app_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:36:47.145028",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'todo_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_todo_app_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:37:39.589473",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'todo_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_todo_app_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:38:27.465723",
+    "user_input": "create project todo app using html css",
+    "jarvis_response": "✅ Project 'todo_app_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_todo_app_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:38:55.617697",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:39:24.339424",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:40:45.195281",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "Processing...",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:41:09.233056",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:42:42.252929",
+    "user_input": "create project calculator using html css",
+    "jarvis_response": "✅ Project 'calculator_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:44:18.477117",
+    "user_input": "create project shoping website  using html css",
+    "jarvis_response": "✅ Project 'shoping_website__using_html_cs' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_shoping_website__using_html_cs\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:44:44.334530",
+    "user_input": "create project shoping web  using html css",
+    "jarvis_response": "✅ Project 'shoping_web__using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_shoping_web__using_html_css\n📄 Files created: 3\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:46:15.664909",
+    "user_input": "create project ultra modern ecommerce landing page with animated ui using only html css no javascript",
+    "jarvis_response": "✅ Project 'ultra_modern_ecommerce_landing' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_ultra_modern_ecommerce_landing\n📄 Files created: 3\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:48:05.667339",
+    "user_input": "create admin dashboard using html css",
+    "jarvis_response": "Folder 'New Folder' created in Desktop",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:48:24.574915",
+    "user_input": "create snake game using javascript",
+    "jarvis_response": "Processing...",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:48:34.701685",
+    "user_input": "create project  snake game using javascript",
+    "jarvis_response": "✅ Project 'snake_game_using_javascript' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_snake_game_using_javascript\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:49:22.825005",
+    "user_input": "create project chessgame using javascript",
+    "jarvis_response": "✅ Project 'chessgame_using_javascript' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_chessgame_using_javascript\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:49:45.435677",
+    "user_input": "create project chess game using javascript",
+    "jarvis_response": "✅ Project 'chess_game_using_javascript' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_chess_game_using_javascript\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:50:29.942132",
+    "user_input": "create project chess game with all coin on board using javascript",
+    "jarvis_response": "✅ Project 'chess_game_with_all_coin_on_bo' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_chess_game_with_all_coin_on_bo\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:51:23.620279",
+    "user_input": "create project admin dashboard using html css",
+    "jarvis_response": "✅ Project 'admin_dashboard_using_html_css' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_admin_dashboard_using_html_css\n📄 Files created: 2\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:52:33.242632",
+    "user_input": "create calculator using python",
+    "jarvis_response": "Calculator opened.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:52:53.677807",
+    "user_input": "create project calculator using python",
+    "jarvis_response": "✅ Project 'calculator_using_python' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_python\n📄 Files created: 6\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-17T13:53:40.642645",
+    "user_input": "create project calculator using python html css",
+    "jarvis_response": "✅ Project 'calculator_using_python_html_c' created successfully!\n📁 Location: C:\\Users\\Hp\\Desktop\\AI_Project_calculator_using_python_html_c\n📄 Files created: 4\n🚀 Folder opened automatically.",
+    "input_type": "text"
+  },
+  {
+    "timestamp": "2025-11-20T15:24:14.780271",
+    "user_input": "open web youtube",
+    "jarvis_response": "Opened web youtube successfully",
+    "input_type": "voice"
+  },
+  {
+    "timestamp": "2025-11-20T16:15:43.195588",
+    "user_input": "open notepad",
+    "jarvis_response": "Opened notepad successfully",
+    "input_type": "voice"
+  },
+  {
+    "timestamp": "2025-11-20T16:16:01.525111",
+    "user_input": "increase volume",
+    "jarvis_response": "Volume increased.",
+    "input_type": "voice"
+  },
+  {
+    "timestamp": "2025-11-20T16:24:39.299324",
+    "user_input": "open notepad",
+    "jarvis_response": "Opened notepad successfully",
+    "input_type": "voice"
+  },
+  {
+    "timestamp": "2025-11-20T17:10:39.896463",
+    "user_input": "hello how are you",
+    "jarvis_response": "Master, I'm functioning within optimum parameters. How may I assist you today?",
+    "input_type": "voice"
+  },
+  {
+    "timestamp": "2025-11-20T17:20:22.146924",
+    "user_input": "increase volume",
+    "jarvis_response": "Volume increased.",
+    "input_type": "voice"
+  },
+  {
+    "timestamp": "2025-11-20T17:24:48.141111",
+    "user_input": "open web youtube",
+    "jarvis_response": "Opened web youtube successfully",
+    "input_type": "voice"
+  },
+  {
+    "timestamp": "2025-11-20T17:25:00.576095",
+    "user_input": "open web chrome",
+    "jarvis_response": "Opened web chrome successfully",
+    "input_type": "voice"
+  }
+]
